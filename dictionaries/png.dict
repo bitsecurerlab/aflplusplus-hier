@@ -5,7 +5,7 @@
 # Just the basic, standard-originating sections; does not include vendor
 # extensions.
 #
-# Created by Michal Zalewski
+# Created by Michal Zalewski <lcamtuf@google.com>
 #
 
 header_png="\x89PNG\x0d\x0a\x1a\x0a"

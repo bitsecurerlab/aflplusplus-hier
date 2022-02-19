@@ -2,7 +2,7 @@
 # AFL dictionary for WebP images
 # ------------------------------
 #
-# Created by Michal Zalewski
+# Created by Michal Zalewski <lcamtuf@google.com>
 #
 
 header_RIFF="RIFF"
