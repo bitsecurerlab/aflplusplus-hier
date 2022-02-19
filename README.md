@@ -8,4 +8,4 @@ This is developed based on AFL (Qemu mode)
 ## Notes
 
 1. This is an OLD implementaion of our scheduler, some code is out of date.
-2. [qemu_mode_elf](qemu_mode_elf) is for normal ELF binaries, and [qemu_mode_cgc](qemu_mode_cgc0 is for CGC binaries.
+2. [qemu_mode_elf](qemu_mode_elf) is for normal ELF binaries, and [qemu_mode_cgc](qemu_mode_cgc) is for CGC binaries.
